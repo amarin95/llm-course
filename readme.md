@@ -15,7 +15,7 @@ Es una práctica recomendada y esencial utilizar entornos virtuales. Estos permi
 Abrir la terminal o el símbolo del sistema y ejecutar:
 
 ```bash
-python -m venv llm-env
+python3 -m venv llm-env
 ```
 
 ## Activar el entorno virtual
